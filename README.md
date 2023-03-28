@@ -4,8 +4,6 @@
 
 I contribute to open-source projects in my free time
 
-<br />
-
 <table><tr><td valign="top" width="50%">
 
 <h2 align="center"> 💼 Languages and Tools</h2>
