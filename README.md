@@ -10,6 +10,12 @@ I contribute to open-source projects in my free time
 
 <br />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next-F7DF1E?&style=for-the-badge&logo=nextjs&logoColor=black" />
+<img src="https://img.shields.io/badge/-Tailwind-gray?&style=for-the-badge&logo=tailwindcss&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Sass-white?&style=for-the-badge&logo=sass&logoColor=pink" />
+  <img src="https://img.shields.io/badge/-MySQL-white?&style=for-the-badge&logo=mysql&logoColor=gray" />
+  <img src="https://img.shields.io/badge/-FireBase-orange?&style=for-the-badge&logo=firebase&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-Bootstrap-black?&style=for-the-badge&logo=bootstrap&logoColor=purple" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express-eee?style=for-the-badge&logo=express&logoColor=black" />
 <img src="https://img.shields.io/badge/Mongodb-116149?style=for-the-badge&logo=mongodb&logoColor=green" />
