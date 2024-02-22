@@ -1,5 +1,5 @@
 ### Hi 🤍, i'm Abolfazl chaman
-#### developer of highly performant & modular web apps created by React.js
+#### Sr. Engineer Working on and maintaining highly performant & modular web applications created by Nextjs & React.js.
 ![Abolfazl](banner.gif)
 
 I contribute to open-source projects in my free time
@@ -10,6 +10,7 @@ I contribute to open-source projects in my free time
 
 <br />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-typescript-252525?&style=for-the-badge&logo=typescript&logoColor=blue" />
 <img src="https://img.shields.io/badge/-Next-F7DF1E?&style=for-the-badge&logo=nextjs&logoColor=black" />
 <img src="https://img.shields.io/badge/-Tailwind-gray?&style=for-the-badge&logo=tailwindcss&logoColor=blue" />
   <img src="https://img.shields.io/badge/-Sass-white?&style=for-the-badge&logo=sass&logoColor=pink" />
@@ -44,13 +45,15 @@ I contribute to open-source projects in my free time
 
 <br />
 
-- 🔭 Working on QRmenu. 
-- 🌱 Learning Redux, Next & TypeScript 
+- 🔭 Working on Paradise Hotel Manager. 
+- 🌱 Always Learning and growing! 
 - 📫 contact me: [linked in](https://www.linkedin.com/in/abolfazlchaman/) or [email](abolfazlchaman.info@gmail.com) 
-- ⚡ Fun fact: I was a C# windows app developer, now intrested in Web applications security. 
+- ⚡ Fun fact: I was a C# windows app developer, intrested in Web applications security. 
 
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/abolfazlchaman)  [<img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abolfazlchaman/)  [<img src="https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=black" />](https://stackoverflow.com/users/18423000)[<img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abolfazlchaman.info@gmail.com)  
 
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=abolfazlchaman&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/abolfazlchaman)  
+-->
