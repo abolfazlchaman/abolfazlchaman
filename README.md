@@ -1,4 +1,4 @@
-### Hi 🤍, i'm Abolfazl chaman
+### Hi , i'm Abolfazl chaman.
 #### Sr. Engineer Working on and maintaining highly performant & modular web applications created by Nextjs & React.js.
 ![Abolfazl](banner.gif)
 
